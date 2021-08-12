@@ -3,7 +3,7 @@
 Hi, my name is Luis Ángel a Frontend Developer Student, currently learning React.
 
 <h3 align="center">Languages and tools</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img alt="HTML-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JavaScript-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
