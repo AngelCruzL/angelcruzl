@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # console.log('Hello world 😃')
 
 Hi, my name is Luis Ángel a Frontend Developer Student, currently learning React.
