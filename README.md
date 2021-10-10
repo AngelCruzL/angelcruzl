@@ -26,8 +26,6 @@ Hi, my name is Luis Ángel a Frontend Developer Student, currently learning Reac
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelcruzl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AngelCruzL&bg_color=0d1117&color=ffffff&line=b706ab&point=ffffff&area=true&hide_border=true)
-
 ---
 
 <h3 align="left">Connect with me:</h3>
